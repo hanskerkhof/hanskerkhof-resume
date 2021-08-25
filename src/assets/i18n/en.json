@@ -25,12 +25,21 @@
       "references": "References"
     },
     "basics": {
-      "summary": "Driven, creative developer with a lot of experience in front-end and back-end development. Has a passion for advanced web applications. Is excellent up-to-date with the latest techniques, with focus on web front-end development. Javascript, Angular , Typescript, AngularJS, Node.js and API integrations.\n\nEnjoys working in a small, agile multi-disciplinary team, preferably with SCRUM. Can carry out assignments on location and/or from own location.\n\nAvailable for a new assignment from August 2020."
+      "summary": "Driven, creative developer with a lot of experience in front-end and back-end development. Has a passion for advanced web applications. Is excellent up-to-date with the latest techniques, with focus on web front-end development. Javascript, Angular , Typescript, AngularJS, Node.js and API integrations.\n\nEnjoys working in a small, agile multi-disciplinary team, preferably with SCRUM. Can carry out assignments on location and/or from own location.\n\nAvailable for a new assignment from December 2021."
     },
     "work": {
       "webDeveloper": {
         "position": "Full stack developer",
         "summary": "API development, platforms, websites, apps, dashboards & SaaS\n\nPFM Footfall Intelligence, Sanomalearning, Malmberg publisher, Cultuurfabriek, ID&T, Company webcast, webinar.nl, Belastingdienst, Pakhuis de Zwijger, Liveuitvaart.nl, online-inekenen.nl, IDFA, Women-inc, Stedelijk Museum Amsterdam, Compant webcast, live funeral .nl, Sanoma learning & Malmberg Publisher, Vattenfall"
+      },
+      "priva2021": {
+        "position": "Frontend developer & lead",
+        "summary": "EN",
+        "highlights.0": "Digital transformation",
+        "highlights.2": "",
+        "highlights.3": "",
+        "highlights.4": "",
+        "highlights.5": ""
       },
       "vattenfall2020": {
         "position": "Frontend developer",
