@@ -1,6 +1,6 @@
 {
   "name": "hanskerkhof",
-  "version": "3.4.1",
+  "version": "4.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -53,6 +53,7 @@
     "@types/jasminewd2": "~2.0.3",
     "@types/jest": "^26.0.23",
     "@types/node": "^12.11.1",
+    "angular-cli-ghpages": "^1.0.0-rc.2",
     "codelyzer": "^6.0.0",
     "jest": "^27.0.4",
     "jest-preset-angular": "^9.0.4",
