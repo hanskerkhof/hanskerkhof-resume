@@ -145,6 +145,24 @@
       "galleries": []
     },
     {
+      "company": "Priva",
+      "position": "resume.work.priva2021.position",
+      "website": "https://www.priva.nl/",
+      "startDate": "2020-08-23",
+      "endDate": "",
+      "summary": "resume.work.priva2021.summary",
+      "highlights": [
+        "resume.work.priva2021.highlights.0",
+        "resume.work.priva2021.highlights.1",
+        "resume.work.priva2021.highlights.2",
+        "resume.work.priva2021.highlights.3",
+        "resume.work.priva2021.highlights.4",
+        "resume.work.priva2021.highlights.5",
+        "resume.work.priva2021.highlights.6"
+      ],
+      "galleries": ["priva"]
+    },
+    {
       "company": "Vattenfall",
       "position": "resume.work.vattenfall2020.position",
       "website": "https://www.vattenfall.nl/",
